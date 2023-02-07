@@ -31,7 +31,7 @@ subprojects {
         testImplementation 'org.awaitility:awaitility:4.1.1'
         testImplementation 'io.rest-assured:rest-assured:4.5.1'
 
-        testRuntimeOnly 'ch.qos.logback:logback-classic:1.2.10'
+        testRuntimeOnly 'ch.qos.logback:logback-classic:1.4.5'
     }
 
     sourceCompatibility = targetCompatibility = JavaVersion.VERSION_17
