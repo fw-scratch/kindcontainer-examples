@@ -23,7 +23,7 @@ subprojects {
     }
 
     dependencies {
-        implementation "io.fabric8:kubernetes-client:6.4.1"
+        implementation "io.fabric8:kubernetes-client:6.5.0"
 
         testImplementation 'junit:junit:4.13.2'
         testImplementation 'com.dajudge.kindcontainer:kindcontainer:1.4.1'
