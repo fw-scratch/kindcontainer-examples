@@ -27,7 +27,7 @@ subprojects {
 
         testImplementation 'junit:junit:4.13.2'
         testImplementation 'com.dajudge.kindcontainer:kindcontainer:1.4.1'
-        testImplementation 'io.fabric8:kubernetes-server-mock:6.4.1'
+        testImplementation 'io.fabric8:kubernetes-server-mock:6.6.2'
         testImplementation 'org.awaitility:awaitility:4.2.0'
         testImplementation 'io.rest-assured:rest-assured:5.3.0'
 
